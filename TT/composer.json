@@ -1,0 +1,12 @@
+{
+    "name": "hp/tt",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Tt\\": "src/"
+        }
+    },
+    "require": {
+        "eftec/bladeone": "^4.11",
+        "bramus/router": "~1.6"
+    }
+}

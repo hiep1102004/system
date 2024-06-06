@@ -1,0 +1,9 @@
+{
+    "name": "hp/wedding",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Wedding\\": "src/"
+        }
+    },
+    "require": {}
+}
